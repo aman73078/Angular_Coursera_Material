@@ -76,4 +76,93 @@
     C. Node Package Manager
     D. Node Project Management
 
+1. What is the primary purpose of the e2e folder in an Angular project?
+    A. Storing static resources like images and icons
+    B. Holding project metadata and dependencies
+    C. Managing core application components
+    D. Monitoring user behavior via end-to-end testing
+
+2.  Which file serves as the starting point for the Angular application, where the app is bootstrapped?
+    A. angular.json
+    B. main.ts
+    C. index.html
+    D. tsconfig.app.json
+
+3.  How does the node_modules folder contribute to the development process in Angular projects?
+    A. It contains packages and third-party libraries required for development (Correct Answer)
+    B. It stores environment-specific configuration files
+    C. It holds the main entry points of the application
+    D. It houses the application's core services and modules
+
+4.  Which file should you consult to configure global TypeScript compiler settings for the entire Angular project?
+    A. tsconfig.app.json
+    B. package.json
+    C. angular.json
+    D. tsconfig.json (Correct Answer)
+
+5.  What is the role of the .gitignore file in project collaboration?
+    A. To streamline application code compilation
+    B. To maintain team-wide coding standards
+    C. To specify which files and folders to exclude from version control (Correct Answer)
+    D. To set npm scripts for managing dependencies
+
+1.  What does Angular's semantic versioning system primarily communicate to developers?
+    A. The framework's directory structure
+    B. Which coding standards to follow
+    C. The impact and compatibility of each release (Correct Answer)
+    D. How to improve server-side rendering
+
+2.  Which file serves as the starting point for the Angular application, where the app is bootstrapped?
+    A. angular.json
+    B. main.ts (Correct Answer)
+    C. index.html
+    D. tsconfig.app.json
+
+3.  Which folder is responsible for storing the core components and services within an Angular project?
+    A. environments
+    B. assets
+    C. app (Correct Answer)
+    D. node_modules
+
+4.  What purpose does main.ts serve in the Angular project architecture?
+    A. It initializes the app in the browser
+    B. It stores static assets required for the application
+    C. It configures project-wide metadata
+    D. It acts as the main bootstrapping point for the application (Correct Answer)
+
+5.  Which configuration file manages the metadata, scripts, and dependencies of an Angular project?
+    A. tsconfig.json
+    B. angular.json
+    C. package.json (Correct Answer)
+    D. karma.config.js
+
+6.  What integrated tool does Angular offer to create, build, and run projects efficiently?
+    ✅ A. Angular CLI (Correct Answer)
+    B. @angular/forms
+    C. Visual Studio Code
+    D. Node.js
+
+7.  Why is Angular's opinionated structure beneficial in enterprise application development?
+    A. It simplifies developer transitions and ensures consistent code (Correct Answer)
+    B. It reduces the use of server-side rendering
+    C. It enforces strict TypeScript versioning
+    D. It restricts routing functionality
+
+8.  Which tool is necessary to ensure consistent code quality and testing within Angular projects?
+    A. favicon.ico
+    B. Node.js
+    C. Jasmine and Karma (Correct Answer)
+    D. polyfills.ts
+
+9.  What is a key benefit of using server-side rendering in Angular applications?
+    A. Isolating each component to prevent conflicts
+    B. Reducing application size
+    C. Enhanced SEO and faster load times (Correct Answer)
+    D. Better routing and code modularity
+
+10. Before starting Angular development, what is crucial to have installed?
+    A. Node.js, npm, and the Angular CLI (Correct Answer)
+    B. Apache server and Docker
+    C. Ruby on Rails and PostgreSQL
+    D. Java and Maven
 */
