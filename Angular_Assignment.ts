@@ -165,4 +165,34 @@
     B. Apache server and Docker
     C. Ruby on Rails and PostgreSQL
     D. Java and Maven
+
+1.  Which tool is required to install the Angular CLI?
+    A. npm (Correct Answer)
+    B. Python
+    C. Ruby
+    D. Java
+
+2.  What is the purpose of the ng new command in Angular development?
+    A. To create a new project folder and initialize it with default files (Correct Answer)
+    B. To run end-to-end tests
+    C. To install npm packages
+    D. To update Angular dependencies
+
+3.  Which file acts as the default or root module of an Angular application?
+    A. index.html
+    B. app.module.ts (Correct Answer)
+    C. angular.json
+    D. main.ts
+
+4.  What is the role of the ng serve command in Angular development?
+    A. To import components into a module
+    B. To install additional Angular CLI tools
+    C. To build the project and start a web server (Correct Answer)
+    D. To generate TypeScript files
+
+5.  Which decorator helps organize the root module in Angular, and which four arrays does it include by default?
+    A. @Injectable, with services, directives, modules, and templates
+    B. @Component, with providers, styles, schemas, and exports
+    C. @NgModule, with declarations, imports, providers, and bootstrap (Correct Answer)
+    D. @Directive, with classes, interfaces, variables, and mixins
 */
