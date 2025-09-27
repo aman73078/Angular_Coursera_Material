@@ -243,4 +243,64 @@
     B. Inline styles
     C. External stylesheets
     D. Nested components
+
+14. What is the purpose of decorators in Angular?
+    A. To specify the HTML content of components
+    B. To manage the security of the application
+    C. To increase the performance of applications
+    D. To provide metadata that instructs Angular how to process a class
+
+15. Which of the following is NOT a type of decorator in Angular?
+    A. Method Decorator
+    B. Class Decorator
+    C. Sequence Decorator
+    D. Property Decorator
+
+16.  What does a Component in Angular manage?
+    A. A designated section of the screen known as a view
+    B. The data model only
+    C. The backend services only
+    D. The routing modules only
+
+17.  What is the primary benefit of organizing related components into an Angular Module?
+    A. Simplified data binding
+    B. Increased application security
+    C. Faster page load times
+    D. Enhanced code reusability and maintainability
+
+18. What does the Angular CLI command ng g c MyComponent do?
+    A. Merges two existing components
+    B. None of the above
+    C. Generates a new component and its associated files
+    D. Deletes an existing component
+
+19. What are Inline Templates used for in Angular?
+    A. Embedding CSS directly into TypeScript files
+    B. Directly embedding HTML in TypeScript files for simple components
+    C. Defining external URLs for components
+    D. Organizing hierarchical components
+
+20. When is it recommended to use the templateUrl property over the template property?
+    A. When the view is complex and requires maintainability
+    B. When there is no HTML
+    C. When the view is less than three lines of HTML
+    D. All of the above
+
+21. What is the main advantage of Nested Components in Angular?
+    A. They increase application security
+    B. They improve component reusability and simplify management
+    C. They speed up the development process
+    D. They simplify data storage
+
+22. Which styling method involves using the styles property of the Component decorator?
+    A. Styles in the Component File
+    B. Inline Styles
+    C. Component Decorator's styleUrls
+    D. External Stylesheets
+
+23. How can multiple stylesheets be organized for a component in Angular?
+    A. Placing all styles inline within the component’s HTML
+    B. Using a single external CSS file for the entire application
+    C. Embedding styles directly into the TypeScript file
+    D. Using the styleUrls property of the Component decorator to specify an array of external stylesheets
 */
